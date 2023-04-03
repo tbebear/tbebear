@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.googblogs.com%2Ftag%2Fgoogleplay%2F&psig=AOvVaw3JcBD4QI1L3H7r8p1yBZ09&ust=1680616321329000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCAqvrtjf4CFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Sofyan Rinaldi</h1>
 <h3 align="center">Informatics Student From Telkomuniversity</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
